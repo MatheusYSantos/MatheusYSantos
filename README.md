@@ -6,12 +6,11 @@ Sou Estudante de Analise e Desenvolvimento de Sistemas.E servi nas força armada
 - 🏢 **Eletricista**  na empresa [Engelmig Energia](https://www.engelmig.com.br/) ⚡
 - 🎮 Adoro jogos de videogame ou computadores do genero Ação e Tiro [Call of Duty](https://www.callofduty.com/br/pt) e [Battlefield](https://www.ea.com/pt-br/games/battlefield/all-battlefield).
 - 👨‍👩‍👦 **AMO DEMAIS ESTAR COM MINHA FAMILIA.**
-- ❌Não bebo e nem fumo.
-- 💻 **Atualmente mais focado em:** Estudar e completar a faculdade Analise e Desenvolvimento de Sistemas e focando em  estudos para começar ame aprofundar em IA, ao mesmo tempo começando a cursar Ingles.
-
-- <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg"/>
-            <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
-            <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
+- ❌Não bebo e Não fumo.
+- 💻 **Atualmente mais focado em:** Estudar e completar a faculdade Analise e Desenvolvimento de Sistemas e focando em  estudos para começar ame aprofundar em IA, ao mesmo tempo começando a cursar Ingles.  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 ##
             
